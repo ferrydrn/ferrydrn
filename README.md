@@ -2,7 +2,7 @@
 <h3 align="center"> Hanya Seorang Hamba Allah!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferrydrn&label=Profile%20views&color=129e00&style=plastic" alt="ferrydrn" /> </p>
-<img align="right" alt="Coding" width="250" height="400" src="foto.jpg">
+
 
 - 👨‍💻 You can also check out my portfolio at [https://ferrydrn.github.io/](https://ferrydrn.github.io/)
 
